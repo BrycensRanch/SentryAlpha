@@ -1,0 +1,8 @@
+{
+    "commands": {
+        "unloaded": ["tts", "uwu", "maintenance", "test", "previewtiktok", "massdm", "meme", "invite", "docs"]
+    },
+    "events": {
+        "unloaded":[]
+    }
+}
