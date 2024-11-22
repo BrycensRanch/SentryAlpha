@@ -26,7 +26,7 @@
     "friendly-numbers": "^1.0.1",
     "humanize-duration": "^3.27.0",
     "humanize-plus": "^1.8.2",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.0",
     "jsdiscordperms": "github:PgBiel/jsdiscordperms",
     "moment": "^2.29.1",
     "ms": "^2.1.3",
