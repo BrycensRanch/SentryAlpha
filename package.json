@@ -4,7 +4,7 @@
   "description": "Epic discord bot, pls no steal!",
   "main": "index.js",
   "author": "Romvnly_Graceful",
-  "license": "ISC",
+  "private": true,
   "scripts": {
     "start": "pm2 start index.js"
   },
