@@ -13,7 +13,7 @@
     "axios": "^0.28.0",
     "better-sqlite3": "^7.4.1",
     "canvacord": "^5.2.1",
-    "canvas": "^2.8.0",
+    "canvas": "^3.0.0",
     "cleverbot-free": "^1.1.6",
     "colors": "^1.4.0",
     "common-tags": "^1.8.0",
